@@ -16,5 +16,23 @@
     "sourceName": "yckceo书源仓库",
     "sourceUrl": "https://www.yckceo.com/yuedu/shuyuan/index.html",
     "type": 0
+  },
+  {
+    "articleStyle": 0,
+    "cacheFirst": false,
+    "customOrder": 0,
+    "enableJs": true,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "loadWithBaseUrl": true,
+    "preload": false,
+    "showWebLog": false,
+    "singleUrl": true,
+    "sourceComment": "yckceo书源仓库备用地址",
+    "sourceGroup": "书源",
+    "sourceIcon": "https://www.yckceo.com/favicon.ico",
+    "sourceName": "yckceo书源仓库",
+    "sourceUrl": "https://www.yckceo.com/yuedu/shuyuan/index.html",
+    "type": 0
   }
 ]
