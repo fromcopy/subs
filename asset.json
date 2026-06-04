@@ -32,7 +32,7 @@
     "sourceGroup": "资源",
     "sourceIcon": "",
     "sourceName": "tvbox订阅",
-    "sourceUrl": "api.json",
+    "sourceUrl": "https://wget.la/raw.githubusercontent.com/fromcopy/tvbox/refs/heads/main/api.json",
     "type": 0
   }
   
