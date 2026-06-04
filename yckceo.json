@@ -34,5 +34,32 @@
     "sourceName": "yckceo源仓库",
     "sourceUrl": "https://www.yck2026.top/yuedu/shuyuan/index.html",
     "type": 0
+  },
+  {
+    "articleStyle": 0,
+    "cacheFirst": false,
+    "customOrder": -1,
+    "enableJs": true,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "header": "{\"User-Agent\":\"Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba\"}",
+    "lastUpdateTime": 1780574516836,
+    "loadWithBaseUrl": true,
+    "loginUrl": "https://www.yckceo.com/yuedu/shuyuan.html",
+    "preload": false,
+    "ruleArticles": "class.ylist",
+    "ruleContent": "head@all&&class.m-top@all\n@js:sy=result.match(/<a href=\"(.*?)\"/)[1];\nsy='<iframe src=\"'+sy+'\" hidden></iframe>';\nresult=sy+'\\n'+result;",
+    "ruleLink": "a@href",
+    "ruleNextPage": "page",
+    "rulePubDate": "{{@@h2@p@text}}\n{{@@.bg3@text##([\\s\\S]+)##[$1]}}\n{{@@.bg1@text##\\n|下载##}}\n{{@@.bg4@text}}\n🕑 下载:{{@@.bg6@text}}\n👤 分享者:{{@@.bg2@text}}👥\n\n<js>##UID##UID:</js>\n<js>##(\\d.0)UID##[$1] 🔖UID</js>\n<js>##\\n</js>\n<js>##(源数量)(🔖)## $2$1:</js>\n<js>##🔖(🔖)##$1</js>\n<js>##🔖\\[.*18\\]</js>",
+    "ruleTitle": "名称：{{//h2/a[1]/text()##http.*}}\n网址：{{//h2/a[1]/text()##.*(http)##$1}}",
+    "showWebLog": false,
+    "singleUrl": false,
+    "sortUrl": "👀\n书源📒::/yuedu/shuyuan/index.html?page={{page}}\n书源合集📒::https://www.yckceo.com/yuedu/shuyuans/index.html?page={{page}}\n\n\n订阅源🔔::/yuedu/rss/index.html?page={{page}}\n订阅源合集🔔::/yuedu/rsss/index.html?page={{page}}\n\n异次元🎭::/yiciyuan/tuyuan/index.html?page={{page}}\n\n纯搜索书源📙::/yuedu/shuyuan/index.html?keys=&uid=&order1=time&order2=1&ver=&faxian=0&sousuo=1&x18=<,&page={{page}}>\n纯发现书源📗::/yuedu/shuyuan/index.html?keys=&uid=&order1=time&order2=1&ver=&faxian=1&sousuo=0&x18=<,&page={{page}}>\n搜发书源📗::/yuedu/shuyuan/index.html?keys=&uid=&order1=time&order2=1&ver=&faxian=1&sousuo=1&x18=<,&page={{page}}>",
+    "sourceComment": "自定义修改布局\n\n//by：旅途\n//可通过设置源变量搜索\n//通过切换布局，能最大范围查看分享者\n//书源搜索用的较多提到前面",
+    "sourceIcon": "https://www.yckceo.com/favicon.ico",
+    "sourceName": "源仓库",
+    "sourceUrl": "https://www.yckceo.com",
+    "type": 0
   }
 ]
