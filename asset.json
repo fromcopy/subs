@@ -1,0 +1,39 @@
+[
+  {
+    "articleStyle": 0,
+    "cacheFirst": false,
+    "customOrder": 0,
+    "enableJs": true,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "loadWithBaseUrl": true,
+    "preload": false,
+    "showWebLog": false,
+    "singleUrl": true,
+    "sourceComment": "TTS朗读引擎",
+    "sourceGroup": "资源",
+    "sourceIcon": "",
+    "sourceName": "朗读引擎",
+    "sourceUrl": "https://legado.aoaostar.com/sources/19db2f5e.json",
+    "type": 0
+  },
+  {
+    "articleStyle": 0,
+    "cacheFirst": false,
+    "customOrder": 0,
+    "enableJs": true,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "loadWithBaseUrl": true,
+    "preload": false,
+    "showWebLog": false,
+    "singleUrl": true,
+    "sourceComment": "？",
+    "sourceGroup": "资源",
+    "sourceIcon": "",
+    "sourceName": "？",
+    "sourceUrl": "？",
+    "type": 0
+  }
+  
+]
