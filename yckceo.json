@@ -1,17 +1,20 @@
-﻿[
+[
   {
     "articleStyle": 0,
+    "cacheFirst": false,
     "customOrder": 0,
     "enableJs": true,
     "enabled": true,
     "enabledCookieJar": true,
-    "lastUpdateTime": 0,
     "loadWithBaseUrl": true,
+    "preload": false,
+    "showWebLog": false,
     "singleUrl": true,
-    "sourceComment": "官网：www.yiove.com",
+    "sourceComment": "yckceo书源仓库",
     "sourceGroup": "书源",
-    "sourceIcon": "https://shuyuan.yiove.com/logo.jpeg",
-    "sourceName": "Yiove 书源仓库",
-    "sourceUrl": "https://shuyuan.yiove.com"
+    "sourceIcon": "https://www.yckceo.com/favicon.ico",
+    "sourceName": "yckceo书源仓库",
+    "sourceUrl": "https://www.yckceo.com/yuedu/shuyuan/index.html",
+    "type": 0
   }
- ]
+]
