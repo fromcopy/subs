@@ -28,11 +28,11 @@
     "preload": false,
     "showWebLog": false,
     "singleUrl": true,
-    "sourceComment": "？",
+    "sourceComment": "tvbox",
     "sourceGroup": "资源",
     "sourceIcon": "",
-    "sourceName": "？",
-    "sourceUrl": "？",
+    "sourceName": "tvbox订阅",
+    "sourceUrl": "api.json",
     "type": 0
   }
   
