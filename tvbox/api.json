@@ -79,8 +79,6 @@
             "name": "金牌1｜APP",
             "type": 3,
             "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
             "ext": {
                 "url": "https://qj4.catbb.xyz",
                 "dataKey": "eecbio48dsq13kkk",
